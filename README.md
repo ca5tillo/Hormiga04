@@ -11,9 +11,9 @@ El funcionamiento esta descrito en el PDF anexo.
 
 En el mapa que se dibuja con histogramas en la ejecución del programa muestra.
 
-los 'números' son los nodos.
-los '*' son las aristas.
-Y los 'o' indican el camino que siguió la ultima hormiga.
+* los `números` son los nodos.
+* los `*` son las aristas.
+* Y los `o` indican el camino que siguió la ultima hormiga.
 
 
 Referencias.
